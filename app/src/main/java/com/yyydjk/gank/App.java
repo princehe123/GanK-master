@@ -12,7 +12,7 @@ import com.orhanobut.logger.Logger;
 public class App extends Application {
 
     private static Context context;
-
+//测试修改
     @Override
     public void onCreate() {
         super.onCreate();
